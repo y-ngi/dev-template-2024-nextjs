@@ -1,0 +1,23 @@
+{
+  "name": "dev-template-2024-nextjs",
+  "version": "1.0.0",
+  "description": "フロントエンド開発環境の土台を作成します。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-ngi/dev-template-2024-nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y-ngi/dev-template-2024-nextjs/issues"
+  },
+  "homepage": "https://github.com/y-ngi/dev-template-2024-nextjs#readme",
+  "volta": {
+    "node": "20.18.1"
+  }
+}
